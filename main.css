@@ -1,0 +1,42 @@
+body {
+    display: grid;
+    place-items: center;
+    margin: 0;
+    padding: 0 24px;
+    background-color: rgb(8, 4, 43);
+    background-size: 2000px 1000px;
+    color: #f9f9f9;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Home {
+    position: absolute;
+    top: 30%;
+    width: 70%;
+    padding: 50px 5px 44px;
+    border-radius: 22px;
+    background: #161616;
+    text-align: center;
+    align-items: center;
+}
+
+.Sign-up {
+    width: 45%;
+    margin: auto;
+    border-radius: 8px;
+    background: rgb(103, 94, 184);
+    font-size: 25px;
+}
+
+.Login {
+    width: 45%;
+    margin: auto;
+    border-radius: 8px;
+    background: rgb(103, 94, 184);
+    font-size: 25px;
+}
+
+h3 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
